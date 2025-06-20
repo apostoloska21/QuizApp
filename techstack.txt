@@ -1,0 +1,32 @@
+🌐 Frontend
+Next.js (React framework) za server-side rendering, ruti i API endpoinovi.
+
+Tailwind CSS so shadcn/ui za responsive dizajn i pregradeni komponenti.
+
+React Query i Axios za efikasno upravuvanje so API povici i kesiranje.
+
+Drag-and-drop funkcionalnost so react-rnd za interaktivno kreiranje na kvizovi.
+
+⚙ Backend
+Node.js so Express.js za lightweight server.
+
+Firebase Firestore kako NoSQL baza za skladiranje na korisnicki podatoci i kvizovi.
+
+Firebase Authentication za bezbedno najavuvawe preku Google Sign-In.
+
+🧩 Integracii
+Gemini API za generiranje na kvizovi i sliki bazirani na vneseni temi.
+
+WebSockets (preku socket.io) za real-time interakcii vo kviz sesii.
+
+QR kodovi so react-qr za sporedba na kviz sesii.
+
+🚀 Deployment
+Vercel za hosting na Next.js aplikacijata.
+
+Coolify za upravuvanje so SSL i backend infrastruktura.
+
+🎮 Dopolnitelni elementi
+Gamifikacija: Badzi, nivoa i tablici na rezultati so react-chart.
+
+Generiranje na sliki: Integracija so DALL-E ili Gemini Vision za relevantni sliki.
