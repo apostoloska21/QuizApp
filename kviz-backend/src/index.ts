@@ -5,7 +5,7 @@ import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from "@google/ge
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-const GEMINI_API_KEY = "AIzaSyAoMSUfnm4QA89da-OeyyCHuCRGJW6g-iE";
+const GEMINI_API_KEY = "enter your api key here";
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
 app.use(cors());
